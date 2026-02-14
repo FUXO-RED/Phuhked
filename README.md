@@ -1,10 +1,6 @@
-![image1-35](https://github.com/user-attachments/assets/f39a687a-0141-4b30-922a-e46012a04b91)
-
+## Mission
 + confidential intelligence & security analysis services
 + Independent interdisciplinary research commons
-
-## Mission
-
 Stargate Research & Security exists at the convergence of open scientific inquiry and closed strategic necessity.
 
 We maintain two parallel tracks:
