@@ -90,7 +90,7 @@ We operate across the following high-impact, rapidly evolving fields:
 
 - Open research discussion → GitHub / public channels (links forthcoming)
 - Confidential inquiries → secure contact form / encrypted channels only
-- General interest → [contact@stargateresearch.security](mailto:contact@stargateresearch.security)
+- General interest → [contact](mailto:stargatePRJ@outlook.com)
 
 ---
 
