@@ -1,6 +1,5 @@
-<div style="text-align: center;">
-  ![image1-35](https://github.com/user-attachments/assets/c9c2d285-d3fe-4eec-bc2d-2902b2650c94)
-</div>
+![image1-35](https://github.com/user-attachments/assets/f39a687a-0141-4b30-922a-e46012a04b91)
+
 + confidential intelligence & security analysis services
 + Independent interdisciplinary research commons
 
