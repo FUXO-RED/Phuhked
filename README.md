@@ -3,10 +3,6 @@
 Independent interdisciplinary research commons  
 + confidential intelligence & security analysis services
 
-![Stargate Logo Placeholder] <img width="1024" height="1024" alt="20260210_2239_Image Generation_remix_01kh4v91hse1caee08c7788w8t" src="https://github.com/user-attachments/assets/9d9b1a00-96e0-4d9a-a7d6-30b793edf2d3" />
-
-*(Replace with actual logo – cosmic portal / quantum grid / secure vault aesthetic recommended)*
-
 ## Mission
 
 Stargate Research & Security exists at the convergence of open scientific inquiry and closed strategic necessity.
