@@ -1,94 +1,61 @@
-## Mission
-+ confidential intelligence & security analysis services
-+ Independent interdisciplinary research commons
-Stargate Research & Security exists at the convergence of open scientific inquiry and closed strategic necessity.
+# PHUHKED  
+**Protecting Humanity Under High-Kinetic Emergent Dangers**
 
-We maintain two parallel tracks:
+Confidential intelligence & security analysis services  
+Independent interdisciplinary research commons  
 
-1. **Open Research Commons**  
-   Public, reproducible, evidence-grounded investigation of frontier domains  
-   All outputs grounded exclusively in verifiable public-domain sources
+PHUHKED exists at the convergence of open scientific inquiry and closed strategic necessity.  
+We maintain two parallel, strictly separated tracks:
 
-2. **Confidential Intelligence Services**  
-   Private, high-assurance analysis and reporting for select clients  
-   Strict NDAs, compartmented workflows, zero public footprint
+### Open Research Commons  
+Public, reproducible, evidence-grounded investigation of frontier domains  
+- All outputs grounded exclusively in verifiable public-domain sources  
+- Reproducible notebooks, datasets, literature reviews, and replication attempts  
+- Focus on transparency, rigor, and long-term civilizational insight  
 
-## Core Domains & Landscapes
+### Confidential Intelligence Services  
+Private, high-assurance analysis and reporting for select clients  
+- Strict NDAs, compartmented workflows, zero public footprint  
+- Tailored threat synthesis, red-teaming, and advisory for frontier risks  
 
-We operate across the following high-impact, rapidly evolving fields:
+### Core Domains & Landscapes  
+We operate across high-impact, rapidly evolving fields:
 
-### 1. AI Infrastructure & Compute Scaling
-- Gigawatt-scale data centers and hyperscale clusters
-- Energy architectures (behind-the-meter power, nuclear co-location, renewables + storage)
-- Cooling technologies (immersion, direct-to-chip, adiabatic)
-- Supply-chain sovereignty & geographic distribution
-- Oracle / OpenAI Stargate project tracking & implications
-- Agentic ecosystems, autonomous compute orchestration, inference farms
+1. **AI Infrastructure & Compute Scaling**  
+   Gigawatt-scale data centers · Hyperscale clusters · Energy architectures (nuclear co-location, behind-the-meter power) · Cooling innovations · Supply-chain sovereignty · Agentic ecosystems & autonomous inference orchestration  
 
-### 2. Quantum-Biological Convergence
-- Quantum-coherent processes in warm, wet biological systems
-- Microtubule dynamics & Orch-OR / quantum cognition models
-- Quantum effects in photosynthesis, avian magnetoreception, olfaction
-- Engineered quantum-biological substrates & coherence engineering
-- Quantum sensing applied to biological systems
-- Non-local effects & entanglement in macroscopic biology
+2. **Quantum-Biological Convergence**  
+   Quantum-coherent processes in biological systems · Microtubule dynamics & Orch-OR models · Quantum effects in photosynthesis, magnetoreception · Engineered substrates & coherence engineering · Quantum sensing in biology  
 
-### 3. Advanced Biotechnologies & Synthetic Biology
-- Programmable cellular architectures
-- Bio-nano interfaces & molecular computing
-- CRISPR-based multi-omics editing at scale
-- Xenobiology, expanded genetic codes, orthogonal translation systems
-- Biologically integrated machine systems (cyborg tissues, neural lace substrates)
-- Directed evolution platforms & high-throughput phenotype screening
+3. **Advanced Biotechnologies & Synthetic Biology**  
+   Programmable cellular architectures · Bio-nano interfaces · CRISPR multi-omics at scale · Xenobiology & expanded genetic codes · Biologically integrated machine systems · Directed evolution platforms  
 
-### 4. Non-Local Effects & Consciousness Research
-- Repeatable markers of non-local information transfer
-- Global consciousness field experiments & RNG meta-analysis
-- Psi phenomena meta-studies (presentiment, precognition, remote viewing)
-- Integrated Information Theory (IIT) & Global Workspace Theory extensions
-- Panpsychism-compatible frameworks grounded in physics
-- Functional correlates of qualia & first-person experience
+4. **Non-Local Effects & Consciousness Research**  
+   Repeatable markers of non-local information transfer · Global consciousness experiments & RNG meta-analysis · Psi phenomena meta-studies · Extensions to IIT & Global Workspace Theory · Panpsychism-compatible physics frameworks  
 
-### 5. Systems Coherence & Resilience
-- Cross-domain coherence (quantum, biological, computational, informational)
-- Cascade failure modeling in complex adaptive systems
-- Sovereignty-preserving design patterns
-- Ethical architectures for autonomous & agentic systems
-- Long-term civilizational resilience against technological x-risks
-- Governance models for post-AGI & superintelligent systems
+5. **Systems Coherence & Resilience**  
+   Cross-domain coherence (quantum, bio, computational) · Cascade failure modeling · Sovereignty-preserving design patterns · Ethical architectures for agentic systems · Long-term resilience against technological x-risks · Governance for post-AGI systems  
 
-### 6. Security & Intelligence Domains (Confidential Track)
-- Agentic ecosystem vulnerability assessment
-- AI red-teaming & adversarial robustness analysis
-- Cross-disciplinary threat synthesis (tech × geo × bio × info)
-- Supply-chain compromise detection in frontier hardware
-- Counter-AI & deception detection in large language models
-- Secure multi-party computation for sensitive research
-- Compartmentalized intelligence reporting & client advisory
+6. **Security & Intelligence Domains (Confidential Track)**  
+   Agentic ecosystem vulnerability assessment · AI red-teaming & adversarial robustness · Cross-disciplinary threat synthesis · Frontier hardware supply-chain compromise detection · Counter-AI & deception detection · Secure multi-party computation · Compartmentalized client advisory  
 
-## Guiding Principles
+### Guiding Principles  
+- **Evidence-first** — Claims anchored in reproducible markers or peer-reviewed literature  
+- **Dual-track integrity** — Open remains fully transparent; confidential remains fully confidential  
+- **No speculation** — Prioritize functional outcomes over narrative  
+- **Interdisciplinary rigor** — Synthesis across physics, biology, computer science, and intelligence studies  
+- **Long-term orientation** — 10–50 year horizons and civilizational-scale implications  
 
-- **Evidence-first** – claims must be anchored in reproducible markers or peer-reviewed literature
-- **Dual-track integrity** – open work remains fully transparent; private work remains fully confidential
-- **No speculation** – we prioritize functional outcomes over narrative
-- **Interdisciplinary rigor** – synthesis across physics, biology, computer science, and intelligence studies
-- **Long-term orientation** – focused on 10–50 year horizons and civilizational-scale implications
+### Current Focus Areas (2026)  
+- Real-time tracking of hyperscale AI infrastructure developments  
+- Quantum-biological coherence markers in engineered substrates  
+- Agentic AI vulnerability landscapes & containment strategies  
+- Ethical architectures for sovereign human–machine symbiosis  
+- Non-local effects literature review & experimental replication pathways  
 
-## Current Focus Areas (2026)
+### Get in Touch  
+- **Open research discussion** → GitHub issues/discussions (this repo or org)  
+- **Confidential inquiries** → Encrypted channels only (Signal/ProtonMail via secure form—contact forthcoming)  
 
-- Tracking & analyzing real-time developments in Stargate-scale AI infrastructure
-- Quantum-biological coherence markers in engineered substrates
-- Agentic AI vulnerability landscapes & containment strategies
-- Ethical architectures for sovereign human–machine symbiosis
-- Non-local effects literature review & experimental replication pathways
-
-## Get in Touch
-
-- Open research discussion → GitHub / public channels (links forthcoming)
-- Confidential inquiries → secure contact form / encrypted channels only
----
-
-**Research & Security**  
-Exploring the frontier. Securing the future.
-
-*Last updated: February 14, 2026*
+We explore the frontier. We secure the future.  
+PHUHKED: When emergent dangers ignite, we strike back.
