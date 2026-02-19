@@ -88,7 +88,7 @@ We operate across the following high-impact, rapidly evolving fields:
 - Confidential inquiries → secure contact form / encrypted channels only
 ---
 
-**Stargate Research & Security**  
+**Research & Security**  
 Exploring the frontier. Securing the future.
 
 *Last updated: February 14, 2026*
