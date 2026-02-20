@@ -1,5 +1,5 @@
 # |P|H|U|H|K|E|D|  
-**Protecting Humanity Under High-Kinetic Emergent Dangers**
+**|P|rotecting |H|umanity |U|nder |H|igh-Kinetic |E|mergent |D|angers**
 
 Confidential intelligence & security analysis services  
 Independent interdisciplinary research commons  
