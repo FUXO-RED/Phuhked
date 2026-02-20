@@ -1,10 +1,10 @@
-# |P|H|U|H|K|E|D|  
+# FUXORED
 **|P|rotecting |H|umanity |U|nder |H|igh-Kinetic |E|mergent |D|angers**
 
 Confidential intelligence & security analysis services  
 Independent interdisciplinary research commons  
 
-PHUHKED exists at the convergence of open scientific inquiry and closed strategic necessity.  
+FUXORED exists at the convergence of open scientific inquiry and closed strategic necessity.  
 We maintain two parallel, strictly separated tracks:
 
 ### Open Research Commons  
@@ -58,4 +58,4 @@ We operate across high-impact, rapidly evolving fields:
 - **Confidential inquiries** → Encrypted channels only (Signal/ProtonMail via secure form—contact forthcoming)  
 
 We explore the frontier. We secure the future.  
-PHUHKED: When emergent dangers ignite, we strike back.
+FUXORED: When emergent dangers ignite, we strike back.
