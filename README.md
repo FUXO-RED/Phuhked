@@ -1,4 +1,4 @@
-# PHUHKED  
+# |P|H|U|H|K|E|D|  
 **Protecting Humanity Under High-Kinetic Emergent Dangers**
 
 Confidential intelligence & security analysis services  
